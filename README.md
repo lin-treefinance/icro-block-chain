@@ -1,10 +1,10 @@
 # icro-block-chain
 
-##java blockchain
+## java blockchain
 
-###Creating Your First Blockchain with Java .Part 1
+### Creating Your First Blockchain with Java .Part 1
 
-####开篇
+#### 开篇
 - 创建一个区块
 -- Block.class
 - 下一步，生成电子签名
